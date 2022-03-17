@@ -1,0 +1,46 @@
+QToolTip {
+    color: #ffffff;
+    background-color: #d44e8d;
+    border: none;
+    border: 0;
+    border-radius: none;
+  }
+  InstanceView
+  {   
+      border: 0;
+      border: none;
+      /* background-image: url(theme:bg.jpg);
+      background-attachment: scroll;
+      background-clip: padding;
+      /* background-size: cover; */
+      background-position: center;
+      background-repeat: none; */
+      background-color:palette(base);
+  }
+  
+  QToolBar{
+      background-color: palette(window);
+      border: none;
+      border: 0;
+  }
+  
+  MainWindow
+  {
+      background-color: palette(window);
+      border: none;
+      border: 0;
+  }
+  BasePage{
+      background: #d44e8d;
+      border: none;
+      border: 0;
+  }
+  
+  InstanceToolbar{
+      border: none;
+      border: 0;
+  }
+  /* InstanceWindow{ */
+      /* works */
+      /* background: #d44e8d; */
+  /* } */

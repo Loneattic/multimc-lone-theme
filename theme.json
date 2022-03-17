@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#3B373D",
+        "Base": "#252326",
+        "BrightText": "#ff0000",
+        "Button": "#3B373D",
+        "ButtonText": "#ffffff",
+        "Highlight": "#2a82da",
+        "HighlightedText": "#000000",
+        "Link": "#2a82da",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#1E1C1F",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#1E1C1F"
+    },
+    "name": "Loneworld",
+    "widgets": "Fusion"
+}
