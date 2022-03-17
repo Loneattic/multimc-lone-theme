@@ -2,19 +2,12 @@ QToolTip {
   color: #ffffff;
   background-color: #724ed4;
   border: none;
-  border-radius: 0;
   padding: 4px 5px;
 }
-/*old_base  2D2A2E */
+
 InstanceView
 {   
-    border: 0;
-    /* background-image: url(theme:bg.png); */
-    /* background-attachment: local;
-    background-size: cover;
-    background-clip: border-box;
-    background-position: center center;
-    background-repeat: repeat; */
+    border: none;
     background-color:palette(base);
 }
 
